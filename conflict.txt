@@ -1,1 +1,1 @@
-This is the conflicted version.
+This is the first change from merge-conflict-activity-1 and the conflicted version from main.
